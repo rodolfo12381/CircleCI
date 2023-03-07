@@ -1,2 +1,0 @@
-# CircleCI
-pratica5
